@@ -9,9 +9,6 @@
 <body>
     <header>
         <h1>Top Anime List</h1>
-        <nav>
-            <a href="add_anime.php">Add Anime</a>
-        </nav>
     </header>
 
     <main>
