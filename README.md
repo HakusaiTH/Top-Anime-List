@@ -3,5 +3,5 @@ PHP project top anime list
 
 
 
-![Screenshot (13)](https://github.com/user-attachments/assets/47daf002-a5f0-4315-a1f0-ea818d8d7f8d)
-![Screenshot (14)](https://github.com/user-attachments/assets/4d6501a7-c693-44a9-9b2e-bfeabf52a984)
+![Screenshot (36)](https://github.com/user-attachments/assets/4108737c-3624-4a5c-bddf-be83af0ddc77)
+![Screenshot (37)](https://github.com/user-attachments/assets/c250a3a9-daa2-4998-8dde-60e90cd815b6)
